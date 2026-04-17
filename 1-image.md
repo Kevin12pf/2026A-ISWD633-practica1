@@ -5,7 +5,7 @@
 Descarga la última versión de la imagen disponible en el registro de Docker.
 
 ```
-docker pull <nombre imagen>
+docker pull <nombre de la  imagen>
 ```
 
 Descarga una versión específica de la imagen, cada imagen tiene etiquetas (tags) para diferentes versiones.
